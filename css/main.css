@@ -1,0 +1,31 @@
+body{
+  margin-top:30px;
+}
+
+#tab_content{
+  padding:15px;
+}
+
+.card-content{
+  font-size:40px;
+}
+
+#overview{
+  margin-top: 3%;
+}
+
+.container{
+  max-width: 2000px;
+}
+
+table{
+  width:100%;
+}
+
+#main{
+  width:80%;
+}
+
+.card{
+  margin:auto;
+}
